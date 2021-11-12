@@ -18,10 +18,11 @@ Python 3 is required for this project, 3.8 is preferred. This project contains m
 ```sh
 $ pip install -r requirements.txt
 ```
-# To be uploaded
+# To be uploaded:
 - Hardware files for the custom OBD2 module.
 - Firmware projects for the custom OBD2 modulle.
 # To do:
-Mobile application
+Mobile application for CanBus
+Don't know how to do it yet.
+Any help is welcome.
 
-# CanBus_project# CanBus_project
