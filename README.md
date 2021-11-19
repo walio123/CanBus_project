@@ -1,4 +1,4 @@
-ПРОБНА РЕДАКЦИЯ НА РИЙДМИ ОТ МИЛЕНСКИ
+
 
 # canDrive
 Tools for hacking your car by reading CAN messages.
